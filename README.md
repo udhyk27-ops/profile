@@ -4,7 +4,7 @@
 ![divider](https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=30&section=header)
 
 ## ✉️ Email
-- ✉️ `fubao1224@gmail.com`
+- ✉️ `udhyk27@gmail.com`
 
 ![divider](https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=30&section=header)
 
