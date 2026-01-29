@@ -9,7 +9,7 @@
 ![divider](https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=30&section=header)
 
 ## 🔗 Notion & Blog
-- [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://mysterious-quill-12e.notion.site/Backend-Developer-e687e7efecf4466da1a6396280f64976?source=copy_link)
+- [![Notion]([https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white](https://ablaze-impatiens-499.notion.site/Backend-Developer-2e581856910c812b8046c85aa0c0c148?pvs=143))](https://mysterious-quill-12e.notion.site/Backend-Developer-e687e7efecf4466da1a6396280f64976?source=copy_link)
 - [![Blog](https://img.shields.io/badge/Blog-29BEB0?style=for-the-badge&logo=medium&logoColor=white)](https://udhyk05.tistory.com/)
 
 ![divider](https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=30&section=header)
