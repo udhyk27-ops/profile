@@ -3,12 +3,6 @@
 
 ![divider](https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=30&section=header)
 
-## 🔗 Notion & Blog
-- [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://ablaze-impatiens-499.notion.site/Backend-Developer-2e581856910c812b8046c85aa0c0c148?pvs=143)
-- [![Blog](https://img.shields.io/badge/Blog-29BEB0?style=for-the-badge&logo=medium&logoColor=white)](https://udhyk05.tistory.com/)
-
-![divider](https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=30&section=header)
-
 ## 👋 About Me
 
 저는 **무엇을 만들었는지보다, 어떤 방식으로 문제를 해결했는지**를 더 중요하게 생각하며 개발해왔습니다.  
@@ -20,6 +14,12 @@
 
 묵묵하지만 꾸준하게,  
 **짜임새 있는 개발 방식으로 신뢰를 쌓아가는 것**을 제 커리어의 기준으로 삼고 있습니다.
+
+![divider](https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=30&section=header)
+
+## 🔗 Notion & Blog
+- [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://ablaze-impatiens-499.notion.site/Backend-Developer-2e581856910c812b8046c85aa0c0c148?pvs=143)
+- [![Blog](https://img.shields.io/badge/Blog-29BEB0?style=for-the-badge&logo=medium&logoColor=white)](https://udhyk05.tistory.com/)
 
 ![divider](https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=30&section=header)
 
